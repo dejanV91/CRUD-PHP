@@ -19,5 +19,4 @@
     }else {
         header("location:index.php?message=Sva polja moraju biti popunjena!");
     }
-
 ?>
